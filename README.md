@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suruchi Suman</h1>
 <h3 align="left">🔭 I’m an entry-level Data Analyst, with a Google Data Analytics Certificate and hands-on skills in SQL, Excel, and Python. I specialize in data cleaning, analysis, and visualization, transforming raw data into actionable insights. 
-🚀 Passionate about continuous learning, I’m eager to collaborate on open-source projects and real-world analytics challenges!</h3>
+
+ <h3 align="left"> 🚀 Passionate about continuous learning, I’m eager to collaborate on open-source projects and real-world analytics challenges!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
