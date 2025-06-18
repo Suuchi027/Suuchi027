@@ -1,14 +1,12 @@
-## Hi, i'm Suruchi Suman
-
- 🔭 I’m an entry-level Data Analyst currently studying at Punjab Engineering College, with a Google Data Analytics Certificate and hands-on skills in SQL, Excel, and Python. I specialize in data cleaning, analysis, and visualization, transforming raw data into actionable insights.
-
-🔍 I enjoy breaking down complex problems, crafting clear visual stories, and contributing to data-driven decision-making. My background also includes team management and event planning, supported by strong communication skills.
-
-🚀 Passionate about continuous learning, I’m eager to collaborate on open-source projects and real-world analytics challenges!
 <h1 align="center">Hi 👋, I'm Suruchi Suman</h1>
+<h3 align="center">🔭 I’m an entry-level Data Analyst, with a Google Data Analytics Certificate and hands-on skills in SQL, Excel, and Python. I specialize in data cleaning, analysis, and visualization, transforming raw data into actionable insights. 🚀 Passionate about continuous learning, I’m eager to collaborate on open-source projects and real-world analytics challenges!</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suruchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suruchi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suruchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suruchi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suruchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suruchi" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/suruchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suruchi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
